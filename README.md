@@ -62,6 +62,7 @@ The Observer Pattern enables one-to-many communication between objects.
 
 ### Prerequisites
 - Java 17+ (or project-used Java 24)
+  - Set up Java_HOME environment variable.
 - Maven
 
 ### Set Up Environment Variables
@@ -99,4 +100,8 @@ mvn clean install
 
 ``` 
 mvn spring-boot:run
+```
+### Live At:
+```
+http://localhost:8080
 ```
