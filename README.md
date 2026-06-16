@@ -61,7 +61,7 @@ The Observer Pattern enables one-to-many communication between objects.
 ## Running the Project
 
 ### Prerequisites
-- Java 17+ (or project-required version)
+- Java 17+ (or project-used Java 24)
 - Maven
 
 ### Build
