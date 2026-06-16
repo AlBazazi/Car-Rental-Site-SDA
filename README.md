@@ -6,7 +6,6 @@ The purpose of the site is to simulate a car rental platform where users can bro
 
 ```
 Car-Rental-Site-SDA/
-│
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -20,18 +19,16 @@ Car-Rental-Site-SDA/
 │   │   │           ├── model/
 │   │   │           ├── service/
 │   │   │           └── controller/
-│   │   │
 │   │   └── resources/
-│   │
 │   └── test/
 │       └── java/
-│
 ├── pom.xml
 ├── mvnw
 ├── mvnw.cmd
 ├── .gitignore
 ├── .gitattributes
 └── README.md
+```
 
 ## Technologies Used
 - Java
