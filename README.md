@@ -64,6 +64,31 @@ The Observer Pattern enables one-to-many communication between objects.
 - Java 17+ (or project-used Java 24)
 - Maven
 
+### Set Up Environment Variables
+Navigate to /src/main/resources, and create the file, "application.properties". Define variables as shown:
+
+```
+spring.application.name=CarRentalApp
+
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=
+spring.datasource.password=
+
+spring.h2.console.enabled=true
+
+spring.jpa.hibernate.ddl-auto=create-drop
+spring.jpa.show-sql=false
+spring.jpa.properties.hibernate.format_sql=true
+
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=enteryourcompanyemail
+spring.mail.password=entercompanyemailpassword
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+mail.from=enteryourcompanyemail
+```
+
 ### Build
 
 ```
