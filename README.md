@@ -5,31 +5,57 @@ The purpose of the site is to simulate a car rental platform where users can bro
 ## Repository Structure
 
 Car-Rental-Site-SDA/
+
 │
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── java/
+
 │   │   │   └── com/
+
 │   │   │       └── carrental/
+
 │   │   │           ├── builder/
+
 │   │   │           ├── command/
+
 │   │   │           ├── factory/
+
 │   │   │           ├── mediator/
+
 │   │   │           ├── observer/
+
 │   │   │           ├── model/
+
 │   │   │           ├── service/
+
 │   │   │           └── controller/
+
 │   │   │
+
 │   │   └── resources/
+
 │   │
+
 │   └── test/
+
 │       └── java/
+
 │
+
 ├── pom.xml
+
 ├── mvnw
+
 ├── mvnw.cmd
+
 ├── .gitignore
+
 ├── .gitattributes
+
 └── README.md
 
 ## Technologies Used
@@ -68,8 +94,12 @@ The Observer Pattern enables one-to-many communication between objects.
 
 ### Build
 
-``` mvn clean install ```
+```
+mvn clean install
+```
 
 ### Run
 
-``` mvn spring-boot:run  ```
+``` 
+mvn spring-boot:run
+```
