@@ -90,6 +90,12 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 mail.from=enteryourcompanyemail
 ```
 
+### Clone The Repository
+```
+git clone https://github.com/AlBazazi/Car-Rental-Site-SDA.git
+cd Car-Rental-Site-SDA
+```
+
 ### Build
 
 ```
