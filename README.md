@@ -38,23 +38,23 @@ Car-Rental-Site-SDA/
 
 ## Design Patterns Implemented
 
-1- Builder Pattern [Needs rework and correction]
+### 1- Builder Pattern [Needs rework and correction]
 
 The Builder Pattern is used to construct complex objects step-by-step while keeping object creation separate from business logic.
 
-2- Command Pattern
+### 2- Command Pattern
 
 The Command Pattern encapsulates requests as objects.
 
-3- Factory Pattern
+### 3- Factory Pattern
 
 The Factory Pattern centralizes object creation.
 
-4- Mediator Pattern
+### 4- Mediator Pattern
 
 The Mediator Pattern controls communication between multiple components.
 
-5- Observer Pattern
+### 5- Observer Pattern
 
 The Observer Pattern enables one-to-many communication between objects.
 
